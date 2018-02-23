@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Handler Message EXample</string>
+    <string name="task1">Task 1</string>
+    <string name="task2">Task 2</string>
+    <string name="task3">Task 3</string>
+    <string name="clear">Clear</string>
+</resources>
